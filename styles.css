@@ -1,0 +1,275 @@
+.mat-card {
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: #0E7D10;
+}
+
+.first-card {
+    padding: 0;
+}
+
+.profile-background {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 32px 32px 0 0;
+}
+
+.profile-image {
+    position: relative;
+    top: -90px;
+    margin-bottom: -70px;
+}
+
+.button1 {
+    position: relative;
+    top: -65px;
+    right: -160px;
+    margin-bottom: -30px;
+}
+
+.button2 {
+    position: absolute;
+    top: 27%;
+    right: 2%;
+    margin-bottom: 1%;
+}
+
+.button3 {
+    position: absolute;
+    top: 5%;
+    right: 2%;
+    margin-bottom: -20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.lugar {
+    margin-bottom: -10px;
+}
+
+.año {
+    color: grey;
+}
+
+.img-unlp {
+    width: 8%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.cont1 {
+    width: auto;
+    position: absolute;
+    top: 20%;
+    right: 78%;
+}
+
+.button4 {
+    position: absolute;
+    top: 20%;
+    right: 2%;
+}
+
+.button5 {
+    position: absolute;
+    top: 20%;
+    right: 4%;
+}
+
+.img-code {
+    width: 15%;
+    margin-bottom: 5%;
+}
+
+.cont2 {
+    width: auto;
+    position: absolute;
+    top: 46%;
+    right: 53%;
+}
+
+.button6 {
+    position: absolute;
+    top: 46%;
+    right: 2%;
+}
+
+.button7 {
+    position: absolute;
+    top: 46%;
+    right: 4%;
+}
+
+.img-sec {
+    width: 27%;
+}
+
+.cont3 {
+    width: auto;
+    position: absolute;
+    top: 75%;
+    right: 55%;
+}
+
+.button8 {
+    position: absolute;
+    top: 75%;
+    right: 2%;
+}
+
+.button9 {
+    position: absolute;
+    top: 75%;
+    right: 4%;
+}
+
+.button10 {
+    position: absolute;
+    top: 3%;
+    right: 2%;
+}
+
+.img-html {
+    width: 10%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.pr-br1 {
+    position: absolute;
+    width: 70%;
+    top: 18%;
+    left: 15%;
+}
+
+.button11 {
+    position: absolute;
+    top: 17.5%;
+    right: 2%;
+}
+
+.button12 {
+    position: absolute;
+    top: 17.5%;
+    right: 4%;
+}
+
+.img-css {
+    width: 8%;
+    padding-left: 1%;
+    margin-bottom: 5%;
+}
+
+.pr-br2 {
+    position: absolute;
+    width: 70%;
+    top: 40%;
+    left: 15%;
+}
+
+.button13 {
+    position: absolute;
+    top: 39.5%;
+    right: 2%;
+}
+
+.button14 {
+    position: absolute;
+    top: 39.5%;
+    right: 4%;
+}
+
+.img-c {
+    width: 8%;
+    padding-left: 1%;
+    margin-bottom: 5%;
+}
+
+.pr-br3 {
+    position: absolute;
+    width: 70%;
+    top: 60%;
+    left: 15%;
+}
+
+.button15 {
+    position: absolute;
+    top: 59.5%;
+    right: 2%;
+}
+
+.button16 {
+    position: absolute;
+    top: 59.5%;
+    right: 4%;
+}
+
+.img-ard {
+    width: 10%;
+    padding-left: 1%;
+    margin-bottom: 5%;
+}
+
+.pr-br4 {
+    position: absolute;
+    width: 70%;
+    top: 77%;
+    left: 15%;
+}
+
+.button17 {
+    position: absolute;
+    top: 76.5%;
+    right: 2%;
+}
+
+.button18 {
+    position: absolute;
+    top: 76.5%;
+    right: 4%;
+}
+
+.img-scr {
+    width: 11%;
+}
+
+.pr-br5 {
+    position: absolute;
+    width: 70%;
+    top: 93%;
+    left: 15%;
+}
+
+.button19 {
+    position: absolute;
+    top: 92.5%;
+    right: 2%;
+}
+
+.button20 {
+    position: absolute;
+    top: 92.5%;
+    right: 4%;
+}
+
+.cn-1 {
+    background-color: #337D34;
+    width: 142%;
+    border-radius: 0 0 25px 25px;
+    position: relative;
+    right: 260px;
+}
+
+.nom {
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.bt-l {
+    padding-left: 60px;
+}
